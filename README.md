@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnComeon)](https://github.com/JohnComeon)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnComeon&repo=John)](https://github.com/JohnComeon)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnComeon&layout=compact)](https://github.com/JohnComeon)
